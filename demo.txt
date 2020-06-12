@@ -4,5 +4,10 @@ commit
 
 push
 
-
 this is from developer 1
+
+status
+revert
+config
+git branh -D
+
