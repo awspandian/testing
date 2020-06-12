@@ -11,3 +11,7 @@ revert
 config
 git branh -D
 
+
+
+weekday classes going in devops
+aws classes going alternet days
