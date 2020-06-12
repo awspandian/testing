@@ -15,3 +15,6 @@ git branh -D
 
 weekday classes going in devops
 aws classes going alternet days
+
+
+tyying to use git stash pop
