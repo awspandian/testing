@@ -6,6 +6,6 @@ this commit was done through git hub
 
 git add
 
-
+git commit
 
 
